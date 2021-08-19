@@ -1,0 +1,11 @@
+.link {
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+}
+
+.link:first-of-type {
+  margin-right: 10px;
+}
